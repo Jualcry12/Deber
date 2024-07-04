@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|c:\\users\\alexis\\desktop\\applogin\\maestrodetallemvc\\maestrodetallemvc\\views\\maestrodetalle\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|solutionrelative:maestrodetallemvc\\views\\maestrodetalle\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\maestrodetallemvc\\controllers\\maestrodetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|solutionrelative:maestrodetallemvc\\controllers\\maestrodetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\maestrodetallemvc\\models\\viewmodels\\ventaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|solutionrelative:maestrodetallemvc\\models\\viewmodels\\ventaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\maestrodetallemvc\\models\\db.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|solutionrelative:maestrodetallemvc\\models\\db.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\maestrodetallemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|solutionrelative:maestrodetallemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\maestrodetallemvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06387B1A-F2C5-48B3-95E1-21DCFCA3BFEF}|MaestroDetalleMVC\\MaestroDetalleMVC.csproj|solutionrelative:maestrodetallemvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\Models\\ViewModels\\VentaViewModel.cs",
+              "RelativeDocumentMoniker": "MaestroDetalleMVC\\Models\\ViewModels\\VentaViewModel.cs",
+              "ToolTip": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\Models\\ViewModels\\VentaViewModel.cs",
+              "RelativeToolTip": "MaestroDetalleMVC\\Models\\ViewModels\\VentaViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:14:18.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\Views\\MaestroDetalle\\Add.cshtml",
+              "RelativeDocumentMoniker": "MaestroDetalleMVC\\Views\\MaestroDetalle\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\Views\\MaestroDetalle\\Add.cshtml",
+              "RelativeToolTip": "MaestroDetalleMVC\\Views\\MaestroDetalle\\Add.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T16:01:58.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaestroDetalleController.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\Controllers\\MaestroDetalleController.cs",
+              "RelativeDocumentMoniker": "MaestroDetalleMVC\\Controllers\\MaestroDetalleController.cs",
+              "ToolTip": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\Controllers\\MaestroDetalleController.cs",
+              "RelativeToolTip": "MaestroDetalleMVC\\Controllers\\MaestroDetalleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:01:11.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DB.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\Models\\DB.edmx",
+              "RelativeDocumentMoniker": "MaestroDetalleMVC\\Models\\DB.edmx",
+              "ToolTip": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\Models\\DB.edmx [Diagram1]",
+              "RelativeToolTip": "MaestroDetalleMVC\\Models\\DB.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-14T22:49:18.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MaestroDetalleMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MaestroDetalleMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:17:20.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MaestroDetalleMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ALEXIS\\Desktop\\AppLogin\\MaestroDetalleMVC\\MaestroDetalleMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MaestroDetalleMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:00:13.058Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
